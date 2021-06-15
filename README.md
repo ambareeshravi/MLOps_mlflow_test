@@ -9,3 +9,4 @@ A virtual environment is highly recommended
 	pip3 install pyngrok
 3. Install xgboost if not present
 	pip3 install xgboost
+4. Login on ngrok.com and get your authtoken from https://dashboard.ngrok.com/auth

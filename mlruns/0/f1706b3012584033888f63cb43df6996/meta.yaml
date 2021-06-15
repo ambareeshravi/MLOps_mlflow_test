@@ -1,0 +1,15 @@
+artifact_uri: file:///media/ambareesh/59ae9ff8-8484-4fe7-87f7-423a5612a9e2/experiments/MLOps_mlflow_test/mlruns/0/f1706b3012584033888f63cb43df6996/artifacts
+end_time: 1623784689352
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: f1706b3012584033888f63cb43df6996
+run_uuid: f1706b3012584033888f63cb43df6996
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1623784689316
+status: 3
+tags: []
+user_id: ambareesh
